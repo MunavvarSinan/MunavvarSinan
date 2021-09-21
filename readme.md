@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Startup Project](https://samartfunds.co.in/)**
+- 🔭 I’m currently working on **[Startup Project](https://smartfunds.co.in/)**
 
 - 🌱 I’m currently learning **Full stack web development with React and Nodejs.**
 
