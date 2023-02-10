@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Startup Project](https://smartfunds.co.in/)**
+- 🔭 I’m currently lloking for an internship
 
 - 🌱 I’m currently learning **Full stack web development with React and Nodejs.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-5e25f.web.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://munavvarsinan.online/)**
 
 - 📫 How to reach me **munavvarsinan01@gmail.com**
 
