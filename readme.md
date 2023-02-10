@@ -30,8 +30,7 @@ I'm Munavvar sinan. Currently a Third year undergraduate CSE student at Yenepoya
 
   <br/>
   <p align="center">
-    <a href="https://github.com/MunavvarSinan/github-readme-stats"><img alt="Munavvar Sinan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MunavvarSinan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MunavvarSinan/github-readme-stats"><img alt="Munavvar Sinan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunavvarSinan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="MunavvarSinan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MunavvarSinan?cardType=github&theme=github-dark&preferLogin=false" />  </a>
   <samp>
      <br>Github Stats
   </samp>
