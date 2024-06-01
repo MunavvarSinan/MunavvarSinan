@@ -7,7 +7,7 @@
 </p>
     <p align="center">
      <samp>
-I'm Munavvar sinan. Currently a Third year undergraduate CSE student at Yenepoya Institute of Technology. Bringing ideas to life, one line of code at a time. As a MERN stack developer with a focus on the backend, I turn your vision into reality. I have a passion for building secure, scalable, and high-performing server-side applications that keep your users happy. With my eye for detail and commitment to quality and With my expertise in MongoDB, Express, React, and Node.js I bring your projects to life in a way that's efficient and maintainable. In my free time, I enjoy sharing my tech knowledge through writing blogs. I'm always on the hunt for new challenges and opportunities to grow, so bring on the next big thing! Let's make digital dreams a reality together.
+I'm Munavvar Sinan, a recent graduate in Computer Science and Engineering from Yenepoya Institute of Technology. Bringing ideas to life, one line of code at a time. As a developer specializing in Next.js, Node.js, Tailwind CSS, and TypeScript, I turn your vision into reality. I have a passion for building secure, scalable, and high-performing server-side applications that keep your users happy. With my eye for detail and commitment to quality, I bring your projects to life in a way that's efficient and maintainable. I also utilize Docker to streamline development and deployment processes. In my free time, I enjoy sharing my tech knowledge through writing blogs. I'm always on the hunt for new challenges and opportunities to grow, so bring on the next big thing! Let's make digital dreams a reality together.
      <br><br>
   </samp>
   </p>
